@@ -9,10 +9,12 @@ This documentation site is powered by [Hugo](https://gohugo.io/).
 
 You need Hugo to be able to build the site.
 
-To install Hugo:
+To install Hugo(0.53 or higher):
 
 ```
-sudo apt-get install hugo
+wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.55.5/hugo_0.55.5_Linux-64bit.deb
+
+sudo dpkg -i /tmp/hugo.deb
 ```
 
 Get Doc source code:
