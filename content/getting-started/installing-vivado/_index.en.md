@@ -5,7 +5,7 @@ weight = 6
 +++
 
 
-Find out how to install **Vivado** on Windows and Linux.
+Find out how to install **Vivado Design Suite** on Windows and Linux.
 
-1. [Installing Vivado on Linux](/en/getting-started/installing-vivado/linux)
-2. [Installing Vivado on Windows](/en/getting-started/installing-vivado/windows)
+1. [Installing Vivado Design Suite on Linux](/en/getting-started/installing-vivado/linux)
+2. [Installing Vivado Design Suite on Windows](/en/getting-started/installing-vivado/windows)

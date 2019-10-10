@@ -13,6 +13,6 @@ pre = "<b>1. </b>"
 Find out how to getting started with Lichee Tang board.
 
 1. [Requirements](/en/getting-started/requirements)
-2. [Installing Vivado](/en/getting-started/installing-vivado)
+2. [Installing Vivado Design Suite](/en/getting-started/installing-vivado)
 3. [Installing USB Driver](/en/getting-started/installing-usb-driver)
 4. [Getting to Blinky](/en/getting-started/getting-to-blinky)
