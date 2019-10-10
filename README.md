@@ -26,7 +26,7 @@ git clone https://github.com/sipeed/Tang-Hex-Doc.git
 Install submodules:
 
 ```
-cd tang-doc
+cd Tang-Hex-Doc
 git submodule init
 git submodule update
 ```
